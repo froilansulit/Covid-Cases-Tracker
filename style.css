@@ -5,5 +5,8 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
-    
+    list-style: none;
+    text-transform: capitalize;
+    line-height: 1.5;
+    transition: all 0.2s linear;
 }
