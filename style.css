@@ -10,3 +10,8 @@
     line-height: 1.5;
     transition: all 0.2s linear;
 }
+
+html {
+    font-size: 62.5%;
+    
+}
