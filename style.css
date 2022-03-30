@@ -23,6 +23,7 @@ body {
 }
 
 :root {
-    --main-color: #5e84fb; 
+    /* --main-color: #5e84fb;  */
+    --main-color: #2980b9; 
     
 }
