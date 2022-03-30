@@ -21,3 +21,8 @@ body {
     background-color: #f9f9f9;
     padding-left: 30rem;
 }
+
+:root {
+    --main-color: #5e84fb; 
+    
+}
