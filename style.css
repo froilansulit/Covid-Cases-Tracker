@@ -42,4 +42,6 @@ header {
     justify-content: space-between;
     z-index: 1000;
     flex-flow: column;
+    padding: 8rem 2rem;
+    width: 30rem;
 }
