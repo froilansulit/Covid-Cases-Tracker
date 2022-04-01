@@ -47,6 +47,8 @@ header {
 }
 
 header .logo {
+    text-transform: uppercase;
+    color: black;
     
 }
 
