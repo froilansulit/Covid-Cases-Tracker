@@ -57,5 +57,9 @@ header .logo span {
     color: var(--main-color);
 }
 
+header .navbar a {
+    display: block;
+    
+}
 
 
