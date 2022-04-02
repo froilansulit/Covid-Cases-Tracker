@@ -64,4 +64,7 @@ header .navbar a {
     margin: 2rem 0;
 }
 
+header .navbar a:hover {
+    color: var(--main-color);
+}
 
