@@ -53,3 +53,9 @@ header .logo {
     font-weight: bolder;
 }
 
+header .logo span {
+    color: var(--main-color);
+}
+
+
+
