@@ -69,6 +69,8 @@ header .navbar a:hover {
 }
 
 #menu-bars {
+    position: fixed;
+    top: 1rem;
     
 }
 
