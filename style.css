@@ -68,14 +68,5 @@ header .navbar a:hover {
     color: var(--main-color);
 }
 
-#menu-bars {
-    position: fixed;
-    top: 1rem;
-    right: 1rem;
-    z-index: 10000;
-    background-color: var(--main-color);
-    color: #fff;
-    font-size: 3rem;
-    
-}
+
 
