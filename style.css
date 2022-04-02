@@ -59,6 +59,8 @@ header .logo span {
 
 header .navbar a {
     display: block;
+    font-size: 2rem;
+    color: #fff;
     
 }
 
