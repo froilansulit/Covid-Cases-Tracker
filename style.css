@@ -76,6 +76,7 @@ header .navbar a:hover {
     background-color: var(--main-color);
     color: #fff;
     font-size: 3rem;
+    border-radius: .5rem;
 }
 
 
