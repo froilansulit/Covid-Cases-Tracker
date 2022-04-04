@@ -71,7 +71,9 @@ header .navbar a:hover {
 #menu-bars {
     position: fixed;
     top: 1rem;
-    
+    right: 1rem;
+    z-index: 10000;
+    background-color: var(--main-color);
 }
 
 
