@@ -87,7 +87,8 @@ header .navbar a:hover {
 /* Home Section Start */
 
 section {
-    
+    min-height: 100vh;
+   
 }
 
 
