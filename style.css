@@ -88,7 +88,7 @@ header .navbar a:hover {
 
 section {
     min-height: 100vh;
-   
+    padding: 0 7%;
 }
 
 
