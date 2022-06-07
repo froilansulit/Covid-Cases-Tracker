@@ -77,7 +77,12 @@ header .navbar a:hover {
     color: #fff;
     font-size: 3rem;
     border-radius: .5rem;
+    padding: 1rem 1.5rem;
+    cursor: pointer;
+    display: none;
 }
+
+
 
 
 
