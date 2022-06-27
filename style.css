@@ -110,6 +110,9 @@ section {
     body {
         padding: 0;
     }
+    #menu-bars {
+        display: initial;
+    }
 }
 
 
