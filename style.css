@@ -113,6 +113,10 @@ section {
     #menu-bars {
         display: initial;
     }
+    header {
+        left: -120%;
+    }
+
 }
 
 
