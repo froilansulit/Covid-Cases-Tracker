@@ -116,6 +116,9 @@ section {
     header {
         left: -120%;
     }
+    header.active {
+        left: 0%;
+    }
 
 }
 
