@@ -107,6 +107,9 @@ section {
     html {
         font-size: 55%;
     }
+    body {
+        padding: 0;
+    }
 }
 
 
