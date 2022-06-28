@@ -140,6 +140,10 @@ section {
     header.active {
         left: 0%;
     }
+    header .navbar{
+        margin-top: -500px;
+        
+    }
 
 }
 
