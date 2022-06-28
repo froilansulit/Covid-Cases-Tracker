@@ -129,16 +129,18 @@ section {
         font-size: 55%;
     }
     body {
-        
         padding: 0;
     }
     #menu-bars {
         display: initial;
     }
     header {
-        
         left: -120%;
     }
+    header.active {
+        left: 0%;
+    }
+
 }
 
 
