@@ -154,11 +154,13 @@ section {
     header {
         width: 100%;
     }
+    /* for testing */
     .all-covid {
         padding-top: 50px;
         font-size: 1.5rem;
     }
-    
+    /* end */
+
 }
 
 
