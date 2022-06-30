@@ -177,6 +177,7 @@ section {
 .home .content .hi {
     font-size: 2rem;
     font-weight: bold;
+    color: var(--main-color);
 }
 
 
