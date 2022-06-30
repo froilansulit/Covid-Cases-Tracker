@@ -160,7 +160,10 @@ section {
         font-size: 1.5rem;
     }
     /* end */
+}
 
+.home .content {
+    flex: 1 1 40rem;
 }
 
 
