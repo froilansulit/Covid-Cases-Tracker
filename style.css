@@ -154,6 +154,10 @@ section {
     header {
         width: 100%;
     }
+    .all-covid {
+        padding-top: 50px;
+        font-size: 1.5rem;
+    }
     
 }
 
