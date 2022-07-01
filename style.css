@@ -186,7 +186,7 @@ section {
 }
 
 .content h3 span {
-    
+    color: var(--main-color);
 }
 
 
