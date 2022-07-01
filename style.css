@@ -190,6 +190,7 @@ section {
 }
 
 .home .content .text {
+    text-transform: none;
     
 }
 
