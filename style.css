@@ -193,8 +193,13 @@ section {
     text-transform: none;
     font-size: 1.7rem;
     color: #666;
-    /* color: #111; */
+    
     padding: .5rem 0;
+}
+
+.btn {
+    display: inline-block;
+    
 }
 
 
