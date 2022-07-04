@@ -202,6 +202,7 @@ section {
     margin-top: 1rem;
     padding: .8rem 3rem;
     font-size: 1.7rem;
+    background-color: var(--main-color);
     
 }
 
