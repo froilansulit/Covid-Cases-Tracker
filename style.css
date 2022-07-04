@@ -200,6 +200,7 @@ section {
 .btn {
     display: inline-block;
     margin-top: 1rem;
+    padding: .8rem 3rem;
     
 }
 
