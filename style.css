@@ -203,7 +203,7 @@ section {
     padding: .8rem 3rem;
     font-size: 1.7rem;
     background-color: var(--main-color);
-    
+    border-radius: 5px;
 }
 
 
