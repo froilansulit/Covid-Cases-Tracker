@@ -196,7 +196,6 @@ section {
     
     padding: .5rem 0;
 }
-
 .btn {
     display: inline-block;
     margin-top: 1rem;
@@ -210,6 +209,10 @@ section {
 
 .btn:hover {
     background-color: #111;
+}
+
+@media(max-width: 991px) {
+    
 }
 
 
