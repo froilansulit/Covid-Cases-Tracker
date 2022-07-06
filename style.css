@@ -212,8 +212,8 @@ section {
 }
 
 @media(max-width: 991px) {
-    .home  {
-       
+    .home .content h3 {
+        margin-top: 60px;
     }
 }
 
