@@ -225,8 +225,10 @@ section {
 
 @media(max-width: 450px) {
     .home .content h3 {
-        
+        margin-top: 20px;
+        font-size: 3.5rem;
     }
+    
     
 }
 
