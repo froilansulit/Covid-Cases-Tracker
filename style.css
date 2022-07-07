@@ -224,6 +224,9 @@ section {
 }
 
 @media(max-width: 450px) {
+    .home .content h3 {
+        
+    }
     
 }
 
