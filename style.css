@@ -64,9 +64,9 @@ header {
         margin: 2rem 0;
     }
 
-header .navbar a:hover {
-    color: var(--main-color);
-}
+    header .navbar a:hover {
+        color: var(--main-color);
+    }
 
 #menu-bars {
     position: fixed;
