@@ -57,12 +57,12 @@ header {
         color: var(--main-color);
     }
 
-header .navbar a {
-    display: block;
-    font-size: 2rem;
-    color: #fff;
-    margin: 2rem 0;
-}
+    header .navbar a {
+        display: block;
+        font-size: 2rem;
+        color: #fff;
+        margin: 2rem 0;
+    }
 
 header .navbar a:hover {
     color: var(--main-color);
