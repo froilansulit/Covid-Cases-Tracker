@@ -46,12 +46,12 @@ header {
     width: 30rem;
 }
 
-header .logo {
-    text-transform: uppercase;
-    color: #fff;
-    font-size: 3rem;
-    font-weight: bolder;
-}
+    header .logo {
+        text-transform: uppercase;
+        color: #fff;
+        font-size: 3rem;
+        font-weight: bolder;
+    }
 
 header .logo span {
     color: var(--main-color);
