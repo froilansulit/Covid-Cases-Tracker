@@ -234,7 +234,9 @@ section {
         top: 1.5rem;
         left: 1.2rem;
     }
-
+    section {
+        padding: 40px 20px;
+    }
     
     
 }
