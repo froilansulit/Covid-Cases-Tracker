@@ -174,11 +174,11 @@ section {
         width: 100%;
     }
 
-.home .content .hi {
-    font-size: 2rem;
-    font-weight: bold;
-    color: var(--main-color);
-}
+    .home .content .hi {
+        font-size: 2rem;
+        font-weight: bold;
+        color: var(--main-color);
+    }
 
 .content h3 {
     font-size: 4.5rem;
