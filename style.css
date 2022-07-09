@@ -91,13 +91,6 @@ section {
     padding: 0 7%;
 }
 
-.home {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 1.5rem;
-}
-
 .all-covid {
     padding-top: 100px;
     font-size: 2rem;
@@ -160,6 +153,13 @@ section {
         font-size: 1.5rem;
     }
     /* end */
+}
+
+.home {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
 }
 
 .home .content {
