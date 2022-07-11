@@ -184,11 +184,9 @@ section {
     font-size: 4.5rem;
     color: #111;
 }
-
     .content h3 span {
         color: var(--main-color);
     }
-
 .home .content .text {
     text-transform: none;
     font-size: 1.7rem;
