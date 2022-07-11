@@ -185,9 +185,9 @@ section {
     color: #111;
 }
 
-.content h3 span {
-    color: var(--main-color);
-}
+    .content h3 span {
+        color: var(--main-color);
+    }
 
 .home .content .text {
     text-transform: none;
