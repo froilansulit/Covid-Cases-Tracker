@@ -207,9 +207,9 @@ section {
     cursor: pointer;
 }
 
-.btn:hover {
-    background-color: #111;
-}
+    .btn:hover {
+        background-color: #111;
+    }
 
 @media(max-width: 991px) {
     .home .content h3 {
