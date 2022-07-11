@@ -243,7 +243,10 @@ section {
 
 /* About Section Start */
 
-
+.about {
+    display: flex;
+    
+}
 
 
 
